@@ -55,7 +55,8 @@
 <br>
 
 ### Fill free to contact with me:
-[![Gmail](https://img.shields.io/badge/-upwork-090909?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~014daa702b9bacddd3?viewMode=1)
+[![UpWork](https://img.shields.io/badge/-upwork-090909?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~014daa702b9bacddd3?viewMode=1)
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:freelance.profile.personal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/shylo-volodymyr/)
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://telegram.im/@pro100volodymyr)
-[![Facebook](https://img.shields.io/badge/-website-090909?style=for-the-badge&logo=website)](https://www.volodymyr-shylo.com)
+[![Website](https://img.shields.io/badge/-website-090909?style=for-the-badge&logo=website)](https://www.volodymyr-shylo.com)
